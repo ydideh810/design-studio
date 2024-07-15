@@ -15,13 +15,13 @@
   "storage_prefix": "cds_sv5",
   "phoneNumber":"${PHONE_NUMBER}",
   "firebase": {
-    "apiKey": "${FIREBASE_APIKEY}",
-    "authDomain": "${FIREBASE_AUTHDOMAIN}",
-    "databaseURL": "${FIREBASE_DATABASEURL}",
-    "projectId": "${FIREBASE_PROJECT_ID}",
-    "storageBucket": "${FIREBASE_STORAGEBUCKET}",
+    "apiKey": "AIzaSyBkxVwmkL8WV_eRpSZHoWj2zGW4q0U6hf4",
+    "authDomain": "mapwrld-1.firebaseapp.com",
+    "databaseURL": "mapwrld-1",
+    "projectId": "mapwrld-1.appspot.com",
+    "storageBucket": "611533888292",
     "messagingSenderId": "${FIREBASE_MESSAGINGSENDERID}",
-    "appId": "${FIREBASE_APP_ID}",
-    "vapidKey": "${FIREBASE_VAPID}"
+    "appId": "1:611533888292:web:50ecdb887d19fd6ace31b1",
+    "vapidKey": "G-2F7WKPP2CY"
   }
 }
